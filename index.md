@@ -2,7 +2,7 @@ Quantvesting is a framework to create wealth in stock market using Quants.
 
 Investors grow with decent businesses, traders believe in buying low and selling high.
 
-With the help of Quants, we try to buy decent businesses when they are cheap (valuation-wise) and sell them when the become expensive).
+With the help of Quants, we try to buy decent businesses when they are cheap* and sell them when the become expensive*. (*valuation-wise)
 
 Basically, the approach is similar to Techno-Funda investing, its just that we are using maths and technology for analysis and automation.
 
