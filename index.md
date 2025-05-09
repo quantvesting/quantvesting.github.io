@@ -1,21 +1,42 @@
-Quantvesting is a framework to create wealth in stock market using Quants.
+## A Peaceful Way to Invest Using Quants
+Investors build wealth through strong businesses.
+Traders look to buy low and sell high.
 
-Investors grow with decent businesses, traders believe in buying low and selling high.
+At Quantvesting, we combine the best of both worlds—using the power of quants, technology, and data to identify quality businesses that are also value opportunities.
 
-With the help of Quants, we try to buy decent businesses when they are cheap* and sell them when the become expensive*. (*valuation-wise)
+### Our goal?
+Buy decent businesses when they’re cheap* and sell when they get expensive* —
+*(cheap and expensive = valuation-wise).
 
-Basically, the approach is similar to Techno-Funda investing, its just that we are using maths and technology for analysis and automation.
+It’s like Techno-Funda investing, but with a modern twist:
+We bring in math, logic, and automation to remove noise and improve decision-making.
 
-We build and refine our stock universe based on business fundmentals and trade in them based on technicals.
+### How It Works
+We maintain and refine a focused stock universe, based on business fundamentals, and make trading decisions based on key technical and valuation factors.
 
-Our stock universe is categorized in criterias like: X40, X40N, X5K, X-LC, H-LC, X-MC and X-SC etc.
+We categorize our universe into custom-built segments like:
+X40, X40N, X5K, X-LC, H-LC, X-MC, X-SC
+(Don’t worry—we break these down in our detailed blogs.)
 
-Our trading (buy/sell) levels are decided based on factors like: price deviation from 200 DMA, valuation deviation from 5-year median, sales and profit growth, market-cap, ROE% etc.
+Our trading signals are based on a blend of:
 
-We will explain the acronyms used above in detail when we deep dive.
+- Price deviation from 200/50 DMA
+- Valuation gap vs 5-year median
+- Sales & profit growth
+- Market cap tiers
+- ROE and other quality metrics
 
-Quantvesting methodology involves a funnel of analysis: 
-Macro > Industry > Business > Fundamentals > Technicals > Valuations > Technicals
+We look at the full picture—top-down:
+Macro > Industry > Business > Fundamentals > Valuations > Technicals
+
+### The Takeaway
+Quantvesting isn't about chasing fads.
+It's a systematic, research-backed framework designed to create long-term wealth using logic, discipline, and data.
+
+- Curious to know how we rank stocks?
+- Want to explore our signals and universe in detail?
+  
+Scroll to the blog posts section and start your Quantvesting journey.
 
 ## Blog Posts
 
