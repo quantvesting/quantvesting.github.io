@@ -20,7 +20,7 @@ Macro > Industry > Business > Fundamentals > Technicals > Valuations > Technical
 ## Blog Posts
 
 ### General
-- [My Journey](https://medium.com/@rathi-ankit/my-journey-to-peaceful-tradevesting-with-python-1f00cc634871)
+- [My Journey to Peaceful Quantvesting](https://medium.com/@rathi-ankit/my-journey-to-peaceful-tradevesting-with-python-1f00cc634871)
 - [What I learnt reading top 15 books on Investment?](https://rathi-ankit.medium.com/what-i-learnt-reading-top-15-books-on-investment-615561a076fe)
 - [12 Key Learnings](https://medium.com/@rathi-ankit/my-12-key-learnings-as-tradevestor-9796709aeda4)
 - [Basics of Stock Market](https://rathi-ankit.medium.com/stock-market-basics-622143eb91cf)
